@@ -20,6 +20,12 @@ Accounts on the live site are created by an administrator, so it isn't open to s
 
 ClaimFlow is a portfolio project, not a production system. The repository's collaboration playbook describes how AI-assisted development was used and reviewed.
 
+## Open-source recognition
+
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Hollowpath/badge.svg)](https://hub.xerj.org/contributors/Hollowpath)
+
+A ClaimFlow DynamoDB implementation was selected for inclusion in the XERJ Corpus Hub, with attribution to this profile and repository.
+
 ## Also in progress
 
 **Counterline**, a multi-outlet point-of-sale project using React, TypeScript, Java Spring Boot and PostgreSQL.
