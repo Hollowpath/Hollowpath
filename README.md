@@ -9,7 +9,7 @@ I'm an entry-level full-stack and cloud-focused software developer and Informati
 A multi-outlet retail point-of-sale system built with Java 21, Spring Boot, PostgreSQL, React and TypeScript. It is a completed `v1.0.0` portfolio release.
 
 - **Three interfaces from one API:** a tablet POS for cashiers and managers, a customer-facing display, and a back-office dashboard for head office and outlet managers.
-- **Multi-outlet:** each outlet has its own staff, till devices and cash registers, with sales reports across outlets.
+- **Multi-outlet:** each outlet has its own staff, till devices and cash registers, with sales reports in the dashboard.
 - **Transactional integrity:** idempotent payment recording, optimistic and pessimistic locking, manager-approved voids and refunds, and Flyway-managed PostgreSQL migrations.
 - **Testing and CI:** backend integration tests against real PostgreSQL (Testcontainers), Vitest and Testing Library, and Playwright smoke tests. GitHub Actions runs the backend, frontend, CDK and packaged-image checks, including a Trivy scan.
 - **AWS deployment verification:** an AWS CDK stack (VPC, ECS Fargate, RDS PostgreSQL, Secrets Manager) was deployed once on 2026-10-31 and checked with a 21-step browser acceptance run ([record](https://github.com/Hollowpath/counterline-pos/blob/main/docs/deployment-verification-2026-10-31.md)).
