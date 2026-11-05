@@ -1,6 +1,6 @@
 # Hi, I'm Faizal Akhtar Bin Azhar
 
-I'm a full-stack software developer and Information Technology graduate from Malaysia, building applications with Java, Spring Boot, React, TypeScript, PostgreSQL and AWS. I'm also preparing for the AWS Certified Developer – Associate exam; I'm not yet certified.
+I'm a full-stack software developer and Information Technology graduate from Malaysia, building applications with Java, Spring Boot, React, TypeScript, PostgreSQL and AWS.
 
 ## Featured projects
 
